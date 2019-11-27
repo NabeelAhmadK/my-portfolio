@@ -1,0 +1,56 @@
+.dev-icons {
+  padding-left: 0;
+  list-style: none;
+  font-size: 3rem;
+  margin-bottom: 0px;
+  margin-top: 0px;
+  text-align: center;
+}
+
+.software-skill-inline {
+  display: inline-block;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+
+.software-skill-inline > i {
+  color: #868e96;
+}
+
+
+.software-skill-html > i:hover {
+  color: #e44d26;
+}
+
+.software-skill-css > i:hover {
+  color: #264de4;
+}
+.software-skill-saas > i:hover {
+  color: #cf6b9f;
+}
+.software-skill-react > i:hover {
+  color: #00d2f8;
+}
+.software-skill-node > i:hover {
+  color: #6aa25a;
+}
+.software-skill-docker > i:hover {
+  color: #0998e6;
+}
+.software-skill-javascript > i:hover {
+  color: #e2c330;
+}
+.software-skill-android > i:hover {
+  color: #9fc137;
+}
+.software-skill-npm > i:hover {
+  color: #bd2026;
+}
+
+.software-skill-sql > i:hover {
+  color: #1de7d5;
+}
+
+.software-skill-angular > i:hover {
+  color: #de0031;
+}
