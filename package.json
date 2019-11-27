@@ -1,5 +1,6 @@
 {
-  "name": "nabeel-portfoio",
+  "homepage": "https://nabeelahmadk.github.io/my-portfolio",
+  "name": "my-portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -18,7 +19,8 @@
     "build": "react-scripts build",
     "deploy": "gh-pages -b master -d build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build"
   },
   "eslintConfig": {
     "extends": "react-app"
