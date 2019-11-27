@@ -6,43 +6,37 @@ export default function SoftwareSkill() {
     <div>
       <div className="software-skills-main-div">
         <ul className="dev-icons">
-          <li className="software-skill-inline" name="html-5">
+          <li className="software-skill-inline software-skill-html" name="html-5">
             <i className="fab fa-html5"></i>
           </li>
-          <li className="software-skill-inline" name="css3">
+          <li className="software-skill-inline software-skill-css" name="css3">
             <i className="fab fa-css3-alt"></i>
           </li>
-          <li className="software-skill-inline" name="sass">
+          <li className="software-skill-inline software-skill-saas" name="sass">
             <i className="fab fa-sass"></i>
           </li>
-          <li className="software-skill-inline" name="JavaScript">
+          <li className="software-skill-inline software-skill-javascript" name="JavaScript">
             <i className="fab fa-js"></i>
           </li>
-          <li className="software-skill-inline" name="reactjs">
+          <li className="software-skill-inline software-skill-react" name="reactjs">
             <i className="fab fa-react"></i>
           </li>
-          <li className="software-skill-inline" name="nodejs">
+          <li className="software-skill-inline software-skill-node" name="nodejs">
             <i className="fab fa-node"></i>
           </li>
-          <li className="software-skill-inline" name="swift">
-            <i className="fab fa-swift"></i>
+          <li className="software-skill-inline software-skill-android" name="android">
+            <i className="fab fa-android"></i>
           </li>
-          <li className="software-skill-inline" name="npm">
+          <li className="software-skill-inline software-skill-npm" name="npm">
             <i className="fab fa-npm"></i>
           </li>
-          <li className="software-skill-inline" name="sql-database">
+          <li className="software-skill-inline software-skill-sql" name="sql-database">
             <i className="fas fa-database"></i>
           </li>
-          <li className="software-skill-inline" name="aws">
-            <i className="fab fa-aws"></i>
+          <li className="software-skill-inline software-skill-angular " name="angular">
+            <i className="fab fa-angular"></i>
           </li>
-          <li className="software-skill-inline" name="firebase">
-            <i className="fas fa-fire"></i>
-          </li>
-          <li className="software-skill-inline" name="python">
-            <i className="fab fa-python"></i>
-          </li>
-          <li className="software-skill-inline" name="docker">
+          <li className="software-skill-inline software-skill-docker" name="docker">
             <i className="fab fa-docker"></i>
           </li>
         </ul>

@@ -11,12 +11,14 @@ export default function Skills() {
         </div>
         <div className="skills-text-div">
           <h1 className="skills-heading">What i do </h1>
-          <p className="subTitle skills-text-subtitle">CRAZY FULL STACK DEVELOPER WHO WANT TO EXPLORE EVERY TECH STACK </p>
+          <p className="subTitle skills-text-subtitle">FULL STACK DEVELOPER WHIZ WHO WANT TO EXPLORE EVERY TECH STACK </p>
           <SoftwareSkill />
           <div>
-            <p className="subTitle skills-text">⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications</p>
-            <p className="subTitle skills-text">⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks</p>
-            <p className="subTitle skills-text">⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean</p>
+            <p className="subTitle skills-text">✔️ Develop highly interactive Front end / User Interfaces for your web and mobile applications</p>
+            <p className="subTitle skills-text">✔️ Writing reusable, testable, and efficient code.</p>
+            <p className="subTitle skills-text">✔️ Writing back-End REST API with NodeJs (Express).</p>
+            <p className="subTitle skills-text">✔️ Development of User-Interface with latest Front-End technologies (Angular 7/8) / React Js</p>
+            <p className="subTitle skills-text">✔️ Writing API Definitions in Swagger.</p>
           </div>
         </div>
       </div>

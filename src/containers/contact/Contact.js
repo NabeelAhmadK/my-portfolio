@@ -8,12 +8,12 @@ export default function Contact() {
       <div className="contact-div-main">
         <div className="contact-header">
           <h1 className="heading contact-title">Contact Me ☎️</h1>
-          <p className="subTitle contact-subtitle">Discuss a project or just want to say hi my inbox is open for all</p>
+          {/* <p className="subTitle c  ontact-subtitle">Discuss a project or just want to say hi my inbox is open for all</p> */}
         </div>
         <div className="contact-text-div">
-          <h1 className="contact-detail">+92-3243454077</h1>
+          <h1 className="contact-detail">+92-3058165462</h1>
 
-          <h1 className="contact-detail-email">saadpasta70@gmail.com</h1>
+          <h1 className="contact-detail-email">nabeelkhanahmad@outlook.com</h1>
 
           <SocialMedia />
         </div>

@@ -3,6 +3,7 @@ import Header from "../components/header/Header";
 import Greeting from "./greeting/Greeting";
 import Skills from "./skills/Skills";
 import Projects from "./projects/Projects";
+import Experience from "./experience/Experience";
 import StartupProject from "./StartupProjects/StartupProject";
 import Achievement from "./achievement/Achievement";
 import Blogs from "./blogs/Blogs";
@@ -16,10 +17,10 @@ export default class Main extends Component {
         <Header />
         <Greeting />
         <Skills />
-        <Projects />
-        <StartupProject />
-        <Achievement />
-        <Blogs />
+        <Experience />
+        {/* <StartupProject /> */}
+        {/* <Achievement /> */}
+        {/* <Blogs /> */}
         <Contact />
         <Footer />
       </div>

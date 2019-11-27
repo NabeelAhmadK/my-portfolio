@@ -1,11 +1,11 @@
 .contact-title {
-  font-size: 56px;
-  font-weight: 400;
+  font-size: 45px;
+  font-weight: bold;
   text-align: center;
 }
 .contact-detail,
 .contact-detail-email {
-  font-size: 40px;
+  font-size: 30px;
   font-weight: 400;
   color: #868e96;
 }
