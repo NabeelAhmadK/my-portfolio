@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.4de7f756.chunk.css",
+    "main.js": "/my-portfolio/static/js/main.d6ebc10f.chunk.js",
+    "main.js.map": "/my-portfolio/static/js/main.d6ebc10f.chunk.js.map",
+    "runtime-main.js": "/my-portfolio/static/js/runtime-main.d20c1486.js",
+    "runtime-main.js.map": "/my-portfolio/static/js/runtime-main.d20c1486.js.map",
+    "static/css/2.5c171af3.chunk.css": "/my-portfolio/static/css/2.5c171af3.chunk.css",
+    "static/js/2.d9b60c86.chunk.js": "/my-portfolio/static/js/2.d9b60c86.chunk.js",
+    "static/js/2.d9b60c86.chunk.js.map": "/my-portfolio/static/js/2.d9b60c86.chunk.js.map",
+    "index.html": "/my-portfolio/index.html",
+    "precache-manifest.bf570911bc46b715a228d7eb9df7b5d9.js": "/my-portfolio/precache-manifest.bf570911bc46b715a228d7eb9df7b5d9.js",
+    "service-worker.js": "/my-portfolio/service-worker.js",
+    "static/css/2.5c171af3.chunk.css.map": "/my-portfolio/static/css/2.5c171af3.chunk.css.map",
+    "static/css/main.4de7f756.chunk.css.map": "/my-portfolio/static/css/main.4de7f756.chunk.css.map",
+    "static/media/codeInLogo.png": "/my-portfolio/static/media/codeInLogo.b3685be8.png",
+    "static/media/developerActivity.svg": "/my-portfolio/static/media/developerActivity.59389695.svg",
+    "static/media/all.css": "/my-portfolio/static/media/fa-solid-900.8e4a6dcc.eot",
+    "static/media/googleAssistant.jpg": "/my-portfolio/static/media/googleAssistant.0c8a4c11.jpg",
+    "static/media/googleAssistant.svg": "/my-portfolio/static/media/googleAssistant.c24ba791.svg",
+    "static/media/jsFramework.svg": "/my-portfolio/static/media/jsFramework.b05ae5b5.svg",
+    "static/media/logo.svg": "/my-portfolio/static/media/logo.25bf045c.svg",
+    "static/media/manOnTable.svg": "/my-portfolio/static/media/manOnTable.52be3144.svg",
+    "static/media/portfolio.gif": "/my-portfolio/static/media/portfolio.6e7dc5ad.gif",
+    "static/media/programmer.svg": "/my-portfolio/static/media/programmer.c1a95f73.svg",
+    "static/media/pwa.png": "/my-portfolio/static/media/pwa.bd5f4148.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d20c1486.js",
+    "static/css/2.5c171af3.chunk.css",
+    "static/js/2.d9b60c86.chunk.js",
+    "static/css/main.4de7f756.chunk.css",
+    "static/js/main.d6ebc10f.chunk.js"
+  ]
+}
