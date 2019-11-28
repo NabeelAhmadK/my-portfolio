@@ -38,7 +38,7 @@ export default class Projects extends Component {
 
   render() {
     return (
-      <div className="main" id="opensource">
+      <div className="main" id="projects">
         <h1 className="project-title">Projects</h1>
         <div className="row text-center mt-2 w-100 justify-content-center">
           <div className="card card-custom">
