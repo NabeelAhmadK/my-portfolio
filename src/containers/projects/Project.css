@@ -1,6 +1,6 @@
 .project-title {
-  font-size: 56px;
-  font-weight: 400;
+  font-size: 46px;
+  font-weight: bolder;
 }
 
 .startup-project-text img{
@@ -12,6 +12,11 @@
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
   gap: 1rem 1rem;
+}
+
+.card-custom {
+  width: 15rem;
+  margin: 10px;
 }
 
 /* Media Query */
